@@ -1,0 +1,15 @@
+C:\Users\lorenzo.magrini.4g\Desktop\interfaccia\interfaccia\bin\Debug\interfaccia.exe.config
+C:\Users\lorenzo.magrini.4g\Desktop\interfaccia\interfaccia\bin\Debug\interfaccia.exe
+C:\Users\lorenzo.magrini.4g\Desktop\interfaccia\interfaccia\bin\Debug\interfaccia.pdb
+C:\Users\lorenzo.magrini.4g\Desktop\interfaccia\interfaccia\obj\Debug\interfaccia.csprojAssemblyReference.cache
+C:\Users\lorenzo.magrini.4g\Desktop\interfaccia\interfaccia\obj\Debug\MainWindow.g.cs
+C:\Users\lorenzo.magrini.4g\Desktop\interfaccia\interfaccia\obj\Debug\App.g.cs
+C:\Users\lorenzo.magrini.4g\Desktop\interfaccia\interfaccia\obj\Debug\interfaccia_MarkupCompile.cache
+C:\Users\lorenzo.magrini.4g\Desktop\interfaccia\interfaccia\obj\Debug\interfaccia_MarkupCompile.lref
+C:\Users\lorenzo.magrini.4g\Desktop\interfaccia\interfaccia\obj\Debug\MainWindow.baml
+C:\Users\lorenzo.magrini.4g\Desktop\interfaccia\interfaccia\obj\Debug\interfaccia.g.resources
+C:\Users\lorenzo.magrini.4g\Desktop\interfaccia\interfaccia\obj\Debug\interfaccia.Properties.Resources.resources
+C:\Users\lorenzo.magrini.4g\Desktop\interfaccia\interfaccia\obj\Debug\interfaccia.csproj.GenerateResource.cache
+C:\Users\lorenzo.magrini.4g\Desktop\interfaccia\interfaccia\obj\Debug\interfaccia.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.magrini.4g\Desktop\interfaccia\interfaccia\obj\Debug\interfaccia.exe
+C:\Users\lorenzo.magrini.4g\Desktop\interfaccia\interfaccia\obj\Debug\interfaccia.pdb

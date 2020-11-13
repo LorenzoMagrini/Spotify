@@ -1,0 +1,18 @@
+﻿<Window x:Class="interfaccia.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:interfaccia"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="900">
+    <Grid>
+        <ListBox x:Name="lstBrani" HorizontalAlignment="Left" Height="198" Margin="27,53,0,0" VerticalAlignment="Top" Width="388"/>
+        <ListBox x:Name="lstCd" HorizontalAlignment="Left" Height="198" Margin="27,320,0,0" VerticalAlignment="Top" Width="388"/>
+        <Button x:Name="btnCreaBrano" Content="CREA BRANO" HorizontalAlignment="Left" Margin="499,106,0,0" VerticalAlignment="Top" Width="321" Height="89" FontFamily="SimSun" FontSize="40"/>
+        <Button x:Name="btnCreaCd" Content="CREA CD" HorizontalAlignment="Left" Margin="499,248,0,0" VerticalAlignment="Top" Width="321" Height="89" FontFamily="SimSun" FontSize="40"/>
+        <Button x:Name="btnInformazioni" Content="INFORMAZIONI" HorizontalAlignment="Left" Margin="499,399,0,0" VerticalAlignment="Top" Width="321" Height="89" FontFamily="SimSun" FontSize="40"/>
+        <Label Content="BRANI" HorizontalAlignment="Left" Margin="27,9,0,0" VerticalAlignment="Top" Width="388" FontFamily="SimSun" FontSize="30"/>
+        <Label Content="CD" HorizontalAlignment="Left" Margin="27,276,0,0" VerticalAlignment="Top" Width="388" FontFamily="SimSun" FontSize="30"/>
+    </Grid>
+</Window>
